@@ -1,0 +1,14 @@
+E:\PracProject\OOP\ObjectOrientedProject\bin\Debug\netcoreapp3.1\ObjectOrientedProject.exe
+E:\PracProject\OOP\ObjectOrientedProject\bin\Debug\netcoreapp3.1\ObjectOrientedProject.deps.json
+E:\PracProject\OOP\ObjectOrientedProject\bin\Debug\netcoreapp3.1\ObjectOrientedProject.runtimeconfig.json
+E:\PracProject\OOP\ObjectOrientedProject\bin\Debug\netcoreapp3.1\ObjectOrientedProject.runtimeconfig.dev.json
+E:\PracProject\OOP\ObjectOrientedProject\bin\Debug\netcoreapp3.1\ObjectOrientedProject.dll
+E:\PracProject\OOP\ObjectOrientedProject\bin\Debug\netcoreapp3.1\ObjectOrientedProject.pdb
+E:\PracProject\OOP\ObjectOrientedProject\obj\Debug\netcoreapp3.1\ObjectOrientedProject.csproj.AssemblyReference.cache
+E:\PracProject\OOP\ObjectOrientedProject\obj\Debug\netcoreapp3.1\ObjectOrientedProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\PracProject\OOP\ObjectOrientedProject\obj\Debug\netcoreapp3.1\ObjectOrientedProject.AssemblyInfoInputs.cache
+E:\PracProject\OOP\ObjectOrientedProject\obj\Debug\netcoreapp3.1\ObjectOrientedProject.AssemblyInfo.cs
+E:\PracProject\OOP\ObjectOrientedProject\obj\Debug\netcoreapp3.1\ObjectOrientedProject.csproj.CoreCompileInputs.cache
+E:\PracProject\OOP\ObjectOrientedProject\obj\Debug\netcoreapp3.1\ObjectOrientedProject.dll
+E:\PracProject\OOP\ObjectOrientedProject\obj\Debug\netcoreapp3.1\ObjectOrientedProject.pdb
+E:\PracProject\OOP\ObjectOrientedProject\obj\Debug\netcoreapp3.1\ObjectOrientedProject.genruntimeconfig.cache
