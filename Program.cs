@@ -139,7 +139,7 @@ namespace ObjectOrientedProject
         }
     }
 
-    // Real-world application with multi-level inheritance
+    // OOP Implementation 
     class Program
     {
         static void Main(string[] args)
